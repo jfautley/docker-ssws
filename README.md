@@ -1,4 +1,4 @@
-Dockerised Super Simple Web Server
+Dockerised Super Simple Web Service
 ==================================
 
 This Docker container will spawn a Python BaseHTTPServer instance that reports
