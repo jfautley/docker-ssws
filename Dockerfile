@@ -1,4 +1,6 @@
-FROM python:2
+FROM gliderlabs/alpine:latest
+
+RUN apk --update add python
 
 COPY ssws.py /ssws.py
 
